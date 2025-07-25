@@ -4,4 +4,4 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[Link to my Portfolio](https://davi-silva-portfolio.vercel.app](https://web-portfolio-ebo852gsz-davi-barbosa-da-silvas-projects.vercel.app/)
+[Link to my Portfolio](https://web-portfolio-rho-lake.vercel.app/){:target="\_blank"}
