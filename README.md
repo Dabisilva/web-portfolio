@@ -4,4 +4,4 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[Link to my Portfolio](https://web-portfolio-rho-lake.vercel.app/){:target="\_blank"}
+<a href="https://web-portfolio-rho-lake.vercel.app/" target="_blank" rel="noopener noreferrer">Link to my Portfolio</a>
