@@ -133,6 +133,16 @@ export default function Home() {
             </Title>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <WebsiteCard
+                title="MultiStream chat"
+                description="A complete multichat for twitch and kick application built with React, TypeScript, and TailwindCSS."
+                url="https://multistreamchat.vercel.app/"
+              />
+              <WebsiteCard
+                title="Pizza Shopp"
+                description="Pizza management app using Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest"
+                url="https://pizza-shop-tawny-six.vercel.app/"
+              />
+              <WebsiteCard
                 title="Dt Money"
                 description="A comprehensive financial management application for tracking income and expenses with detailed summaries and analytics."
                 url="https://dt-money-2-0-brown.vercel.app/"
@@ -141,11 +151,6 @@ export default function Home() {
                 title="Design System"
                 description="A complete design system built with Storybook, featuring reusable components and comprehensive documentation."
                 url="https://dabisilva.github.io/test-storybook/?path=/docs/home--docs"
-              />
-              <WebsiteCard
-                title="MultiStream chat"
-                description="A complete multichat for twitch and kick application built with React, TypeScript, and TailwindCSS."
-                url="https://multistreamchat.vercel.app/"
               />
             </div>
           </div>
