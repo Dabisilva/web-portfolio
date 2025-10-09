@@ -142,6 +142,11 @@ export default function Home() {
                 description="A complete design system built with Storybook, featuring reusable components and comprehensive documentation."
                 url="https://dabisilva.github.io/test-storybook/?path=/docs/home--docs"
               />
+              <WebsiteCard
+                title="MultiStream chat"
+                description="A complete multichat for twitch and kick application built with React, TypeScript, and TailwindCSS."
+                url="https://multistreamchat.vercel.app/"
+              />
             </div>
           </div>
 
